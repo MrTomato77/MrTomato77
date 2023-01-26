@@ -21,13 +21,13 @@
 <table border="0" align="center">
 <tr border="0">
  
-<td width="50%" align="center">
+<td width="40%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MrTomato77&show_icons=true&theme=radical" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=MrTomato77&theme=dark&date_format=j%20M%5B%20Y%5D" />
 </td>
 
-<td width="45%" align="center">
+<td width="35%" align="center">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
 </td>
 
