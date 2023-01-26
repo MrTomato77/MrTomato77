@@ -20,12 +20,7 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-<br>
 
-  
-  
-  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -34,8 +29,8 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=MrTomato77&theme=dark&date_format=j%20M%5B%20Y%5D" />
 
-
   
+ 
 </td>
 
 <td width="50%" align="center">
@@ -50,9 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-                                                                                    
-
-
+           
 
 
 <h3 align="center">
