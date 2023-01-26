@@ -2,6 +2,10 @@
 
 ## My name is Nakrit Kreechaichana, Just call me Tomato :)
 
+ <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; I'm the ultimate gamer who will slap your ass!
@@ -67,8 +71,4 @@
   <a href="https://osu.ppy.sh/users/14476749"> Osu! </a>
   |
   <a href="https://steamcommunity.com/profiles/76561198372198081"> Steam </a>
-</p>
-
- <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
