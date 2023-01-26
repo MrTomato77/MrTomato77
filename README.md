@@ -1,5 +1,6 @@
 <h1 align="center">
-  👋 Hi there!! My name is Nakrit Kreechaichana, Just call me Tomato :)
+  👋 Hi there!! My name is Nakrit Kreechaichana </br>
+  Just call me Tomato :)
 </h1>
 
 <p align="center">
