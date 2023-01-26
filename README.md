@@ -1,6 +1,8 @@
-## 👋 Hi there!! My name is Nakrit Kreechaichana, Just call me Tomato :)
+<h2 align="center">
+  👋 Hi there!! My name is Nakrit Kreechaichana, Just call me Tomato :)
+</h2>
 
- <p align="center">
+<p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
