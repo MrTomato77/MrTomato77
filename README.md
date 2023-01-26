@@ -12,7 +12,7 @@
 - 🤔 &nbsp; I'm the ultimate gamer who will slap your ass!
 - 🎓 &nbsp; Studying Computer Engineering at Prince of Songkla University (PSU)
 
-### 💻 I work with
+### 💻 I'm working with
 
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,arduino,docker,git,ae,pr,ps,py,react,vscode,github,gitlab" height="50"/>
 
