@@ -9,7 +9,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I'm the ultimate gamer who will slap your ass!
+- 🤔 &nbsp; I'm the ultimate gamer who can code!
 - 🎓 &nbsp; Studying Computer Engineering at Prince of Songkla University (PSU)
 
 ### 💻 I'm working with
