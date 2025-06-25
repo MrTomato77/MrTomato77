@@ -13,7 +13,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Passionate about Networking and Cybersecurity secure systems 🌐
+- 🤔 &nbsp; Passionate about Networking and Cybersecurity secure systems
 - 🎓 &nbsp; Studying Computer Engineering at Prince of Songkla University (PSU)
 
 ### 💻 I'm working with
