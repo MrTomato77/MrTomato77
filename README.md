@@ -13,7 +13,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I'm the ultimate gamer who can code!
+- 🤔 &nbsp; Passionate about Networking and Cybersecurity secure systems 🌐
 - 🎓 &nbsp; Studying Computer Engineering at Prince of Songkla University (PSU)
 
 ### 💻 I'm working with
