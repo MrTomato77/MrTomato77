@@ -13,7 +13,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Passionate about Networking and Cybersecurity secure systems
+- 🫠 &nbsp; I have failed the CCNA Exam and lost $300 
 - 🎓 &nbsp; Studying Computer Engineering at Prince of Songkla University (PSU)
 
 ### 💻 I'm working with
