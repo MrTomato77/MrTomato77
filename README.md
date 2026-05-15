@@ -19,18 +19,3 @@
 ### 💻 I'm working with
 
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,arduino,docker,git,ae,pr,ps,py,react,vscode,github,gitlab" height="50"/>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<h3 align="center">
-  🌍 CONTACT 🌍
-</h3>
-
-<p align="center">
-  <a href="https://web.facebook.com/profile.php?id=100014782152313"> Facebook </a>
-  |
-  <a href="https://youtube.com/c/MrTomatoSan"> Youtube </a>
-  |
-  <a href="https://www.linkedin.com/in/nakrit-kreechaichana/"> LinkedIn </a>
-</p>
